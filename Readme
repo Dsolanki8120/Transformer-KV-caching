@@ -1,7 +1,0 @@
-Transformer KV Caching Benchmark
-This notebook demonstrates and benchmarks the performance of a decoder-only Transformer model with and without Key-Value (KV) caching during text generation. The model is trained on a tiny Shakespeare dataset.
-
-
-Setup
-This section loads necessary libraries, downloads the dataset, preprocesses the text, and defines training/validation splits. It also sets up global parameters for the Transformer model.
-
